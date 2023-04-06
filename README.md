@@ -1,4 +1,4 @@
-<h1 align="center"> 🖥️ API no Strapi para blogs </h1>
+<h1 align="center"> 🖥️ API com Strapi para blogs </h1>
 <h3 align="center"><a href="https://strapi-blog-api-0fvs.onrender.com" target="_blank" > 🚀 Click aqui para acessar </a></h3>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
