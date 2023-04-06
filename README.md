@@ -20,15 +20,13 @@
 
   ⭐ Olá!
 
-Estou muito animado em compartilhar com você a nossa nova landing page criada com as tecnologias mais modernas do mercado! Como desenvolvedor, eu escolhi usar Next.js, Typescript, Styled Components, Storybook, Jest e Husky para criar uma página única e incrível para você.
+API desenvolvida usando Strapi com os plugins GraphQL e CKEditor5. Esta API foi criada para fornecer um sistema de gerenciamento de conteúdo para blogs, permitindo que os usuários criem, editem e publiquem artigos com facilidade.
 
-Com o Next.js, consegui criar uma página rápida e dinâmica, com uma experiência de usuário mais fluida. Além disso, o Typescript nos permitiu escrever um código mais seguro e escalável, garantindo a integridade da página. Usando o Styled Components, pude criar um design moderno e personalizado, com um código mais fácil de gerenciar e modificar.
+Com o plugin CKEditor5, os usuários têm acesso a uma interface intuitiva e rica em recursos para criar e editar artigos. O CKEditor5 suporta formatação de texto, inserção de imagens e links, bem como outros recursos avançados, tornando mais fácil para os usuários criarem conteúdo visualmente atraente.
 
-Eu também usei o Jest para testes automatizados, garantindo que a página seja entregue sem erros e bugs, e o Storybook para visualizar os componentes de forma isolada e garantir que cada parte da página funcione perfeitamente.
+Com o plugin GraphQL, os usuários podem fazer consultas personalizadas para obter informações específicas sobre os artigos, incluindo os mais populares, recentes e em uma categoria específica. O GraphQL permite que os usuários obtenham os dados que precisam em uma única chamada, tornando o processo mais eficiente.
 
-Para manter o nosso código organizado e limpo, utilizei o Husky para garantir que todos os nossos commits atendam aos padrões definidos e que o código seja sempre entregue com a melhor qualidade possível.
-
-Espero que você goste da nossa landing page tanto quanto eu gostei de criá-la! Eu trabalhei duro para trazer a melhor experiência possível para você, então sinta-se à vontade para explorar e experimentar essas tecnologias incríveis.
+No geral, essa API é altamente personalizável e pode ser adaptada às necessidades específicas de qualquer blog. O Strapi, com os plugins GraphQL e CKEditor5, é uma excelente plataforma para criar uma API fácil de usar e altamente funcional. Com essa API, os usuários podem criar conteúdo visualmente atraente e compartilhá-lo facilmente com seu público-alvo.
 
 Atenciosamente,
 
